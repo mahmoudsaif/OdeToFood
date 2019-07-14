@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables@1.10.19",
+      "destination": "wwwroot/datatables/"
+    },
+    {
+      "library": "datatable@2.0.1",
+      "destination": "wwwroot/datatable/",
+      "files": [
+        "js/datatable.min.js"
+      ]
+    }
+  ]
+}
